@@ -1,9 +1,9 @@
 @media screen and (max-width:1000px)
 {
     #code{
-        font-size: 30px !important;
+        font-size: 25px !important;
         color: palevioletred;
-        line-height: 0.8;
+        line-height: 1;
         transform: translateY(-100px);
         font-family: cursive;
         display: block;
